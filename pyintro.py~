@@ -1,0 +1,14 @@
+def hi(name):
+	print('Hi ' + name + '!')
+
+girls = ['Sandra', 'Mary', 'Jessica', 'Monica', 'Erica', 'Rita']
+
+for name in girls:
+	hi(name)
+
+AND
+
+lottery = [1,5,3,2,0]
+
+for int in lottery
+	print(i)

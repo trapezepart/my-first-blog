@@ -1,0 +1,5 @@
+print('Hello, Django girls!')
+
+lottery=[1,6,23,6,11,12]
+sort.lottery()
+
